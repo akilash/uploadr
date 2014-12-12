@@ -25,4 +25,16 @@ Useful Links:
 Important Note:
 ---------------
 
- * Please open the 'NearGrams.xcworkspace' file to run the project, as this is required for Xcode projects using the Cocoapods Dependency Management Library.
+ * Please open the 'Uploadr.xcworkspace' file to run the project, as this is required for Xcode projects using the Cocoapods Dependency Management Library.
+
+
+Get Started
+-----------
+
+Install Cocoapods the following as detailed below.  You may also defer to the [CocoaPods documentation](http://guides.cocoapods.org/using/getting-started.html) for further details.
+```
+sudo gem install cocoapods
+```
+
+Run `pod install` once CocoaPods is installed
+Open the Uploadr.xcworkspace start start coding!
