@@ -3,8 +3,8 @@
 
 pod 'AFNetworking', '~> 2.5'
 pod 'AWSiOSSDKv2', '~> 2.0'
-pod 'MBProgressHUD', '~> 0.41'
-pod 'Reachability', '~> 3.2'
+pod 'MBProgressHUD', '~> 0.9'
+pod 'Reachability', '~> 3.1.1'
 pod 'ReactiveCocoa', '~> 2.3'
 pod 'SDWebImage', '~> 3.7'
 
