@@ -31,7 +31,7 @@ Important Note:
 Get Started
 -----------
 
-Install Cocoapods the following as detailed below.  You may also defer to the [CocoaPods documentation](http://guides.cocoapods.org/using/getting-started.html) for further details.
+Run the following command to Install Cocoapods.  You may also defer to the [CocoaPods documentation](http://guides.cocoapods.org/using/getting-started.html) for further details.
 ```
 sudo gem install cocoapods
 ```
