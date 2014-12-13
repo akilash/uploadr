@@ -8,6 +8,12 @@
 
 #import <Foundation/Foundation.h>
 
-@interface AssetMgr : NSObject
+@protocol MediaProtocol <NSObject>
+
+
+@end
+
+@interface AssetMgr : NSObject <MediaProtocol>
+
 
 @end
